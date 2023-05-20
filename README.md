@@ -2,16 +2,16 @@
 
 ## Topics:
 
-Machine Learning
+### Machine Learning
 
-Churn Prediction
+### Churn Prediction
 
-Classification Models:
+### Classification Algorithms:
 
-  KNN
+  #### KNN
   
-  Decision Tree
+  #### Decision Tree
   
-  Logistic Regression
+  #### Logistic Regression
   
   
